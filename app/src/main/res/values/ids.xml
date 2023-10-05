@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="login_username" type="id" />
+    <item name="login_password" type="id" />
+    <item name="login_button" type="id" />
+    <item name="loginRedirectText" type="id" />
+    <item name="signupRedirectText" type="id" />
+    <item name="signup_name" type="id" />
+    <item name="signup_button" type="id" />
+    <item name="signup_password" type="id" />
+    <item name="signup_email" type="id" />
+    <item name="signup_username" type="id" />
+    <item name="name_field" type="id" />
+</resources>

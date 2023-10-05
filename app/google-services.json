@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "238972761836",
+    "firebase_url": "https://fir-example-6e6fb-default-rtdb.firebaseio.com",
+    "project_id": "fir-example-6e6fb",
+    "storage_bucket": "fir-example-6e6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238972761836:android:719ac08873cbd31df757c9",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0cE3CQ4fmNPj_bWMpOYO0DsRc7cLTro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238972761836:android:ffc349fb2a0e55e4f757c9",
+        "android_client_info": {
+          "package_name": "com.example.pizzaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0cE3CQ4fmNPj_bWMpOYO0DsRc7cLTro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
